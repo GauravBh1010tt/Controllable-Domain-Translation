@@ -10,11 +10,11 @@ Code for our paper "Learning Style Subspaces for Controllable Unpaired Domain Tr
 
 ## Results of Controllable domain translation
 
-<img src="https://github.com/GauravBh1010tt/Controllable-Domain-Translation/blob/main/figs/figs/m2f_sub.jpg" width="900">
+<img src="https://github.com/GauravBh1010tt/Controllable-Domain-Translation/blob/main/figs/figs/m2f_sub.jpg" width="700">
 
 ## Forward-backward interpolation
 
-<img src="https://github.com/GauravBh1010tt/Controllable-Domain-Translation/blob/main/figs/figs/fb_int.jpg" width="900">
+<img src="https://github.com/GauravBh1010tt/Controllable-Domain-Translation/blob/main/figs/figs/fb_int.jpg" width="700">
 
 ## Multi-attribute controllable generation
 
