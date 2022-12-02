@@ -12,18 +12,18 @@ Code for our paper "Learning Style Subspaces for Controllable Unpaired Domain Tr
 
 <img src="https://github.com/GauravBh1010tt/Controllable-Domain-Translation/blob/main/figs/figs/m2f_sub.jpg" width="700">
 
-## Forward-backward interpolation
+### Forward-backward interpolation
 
 <img src="https://github.com/GauravBh1010tt/Controllable-Domain-Translation/blob/main/figs/figs/fb_int.jpg" width="700">
 
-## Multi-attribute controllable generation
+### Multi-attribute controllable generation
 
 <img src="https://github.com/GauravBh1010tt/Controllable-Domain-Translation/blob/main/figs/figs/multi.jpg" width="500">
 
-## Multi-domain style transfer
+### Multi-domain style transfer
 
 <img src="https://github.com/GauravBh1010tt/Controllable-Domain-Translation/blob/main/figs/figs/multi_dom.jpg" width="700">
 
-## References-guided image synthesis
+### References-guided image synthesis
 
 <img src="https://github.com/GauravBh1010tt/Controllable-Domain-Translation/blob/main/figs/figs/ref_celeb.jpg" width="700">
