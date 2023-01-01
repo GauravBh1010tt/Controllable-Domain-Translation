@@ -27,3 +27,15 @@ Code for our paper [Learning Style Subspaces for Controllable Unpaired Domain Tr
 ### References-guided image synthesis
 
 <img src="https://github.com/GauravBh1010tt/Controllable-Domain-Translation/blob/main/figs/figs/ref_celeb.jpg" width="700">
+
+
+## BibTex:- 
+
+@InProceedings{Bhatt_2023_WACV,
+    author    = {Bhatt, Gaurav and Balasubramanian, Vineeth N.},
+    title     = {Learning Style Subspaces for Controllable Unpaired Domain Translation},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {January},
+    year      = {2023},
+    pages     = {4220-4229}
+}
